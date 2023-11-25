@@ -1,0 +1,8 @@
+append-file.sh
+basics.sh
+cli.sh
+input-output.sh
+output.txt
+reading-file.sh
+variables-datatypes.sh
+writing-file.sh
